@@ -5,8 +5,8 @@
 %global crate failure-tools
 
 Name:           rust-%{crate}
-Version:        4.0.3
-Release:        2%{?dist}
+Version:        4.0.5
+Release:        1%{?dist}
 Summary:        Various tools to be used in conjunction with the 'failure' crate
 
 # Upstream license specification: MIT
